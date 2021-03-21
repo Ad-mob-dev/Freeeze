@@ -1,0 +1,58 @@
+.ximg{
+    display:block;
+     position: absolute;
+       background-image: url('../icons.png');
+       background-repeat: no-repeat;
+       width: 160px;
+       z-index: 1000;
+       font-size: 21px;
+       font-weight: bold;
+       text-align: center;
+       height: 160px;
+       border-radius: 100px;
+       border:1px solid #e32a62;
+       top: 530px;
+       right: 258px;
+       padding-top:55px;
+       padding-right:10px ;
+       background-color: #e32a62;
+       opacity: 0.8;
+}
+
+.freezehref{
+    text-decoration: none;
+    color: white;
+}
+.freezehref:hover{
+    color:white;
+}
+.fweb:hover{
+    color:#b0c01f;
+}
+.ximg2{
+    display:block;
+     position: absolute;
+       background-image: url('../icons.png');
+       background-repeat: no-repeat;
+       width: 160px;
+       z-index: 90;
+       font-size: 24px;
+       text-align: center;
+       height: 160px;
+       border-radius: 100px;
+       border:1px solid #b0c01f;
+       top: 542px;
+       right: 270px;
+       padding:30px;
+       background-color: #b0c01f;
+}
+
+.freezehref2{
+    text-decoration: none;
+    color:transparent;
+}
+
+.n:hover{
+    color:#e32a62;
+    cursor: pointer;
+}
